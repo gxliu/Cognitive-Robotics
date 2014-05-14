@@ -1,0 +1,8 @@
+This repo contains the source code written in PDDL language for the course
+of Cognitive Robotics held by prof. Gini and prof. Matteucci @ Politecnico
+di Milano.
+
+For each exercise there are three file:
+-a domain file;
+-a problem file;
+-a solution file;
