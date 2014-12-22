@@ -3,11 +3,11 @@
 ====
 
 
-----------
+
 
 
 **What is PDDL**
-------------
+
 PDDL = Planning Domain Definition Language
 It is a standard encoding language for “classical” planning tasks. Its foundamental components are:
 
@@ -18,11 +18,11 @@ It is a standard encoding language for “classical” planning tasks. Its found
  - Actions/Operators:Ways of changing the state of the world
 
 
-----------
+
 
 
 How it works
-------------
+
 Planning tasks specified in PDDL are separated into two files:
 
  1. A domain file for predicates and actions.
