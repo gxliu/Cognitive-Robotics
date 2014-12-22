@@ -22,7 +22,7 @@ It is a standard encoding language for “classical” planning tasks. Its found
 
 
 
-**How it works**
+How it works
 ------------
 Planning tasks specified in PDDL are separated into two files:
 
